@@ -187,7 +187,7 @@
 .footer-text{
   font-size: 20px;
   text-align: center;
-  padding: 38px 410px;
+  padding: 38px 0px;
 }
 /* responsive media query */
 @media screen and (max-width:576px){
@@ -216,6 +216,7 @@
     margin-top: 20px;
     margin-left: 20px;
   }
+  
 }
 
 /* medium size device */
@@ -236,4 +237,5 @@
     margin-top: 20px;
     margin-left: 20px;
   }
+  
 }
